@@ -1,0 +1,1 @@
+<template name="6381bfd8"><view class="_view 6381bfd8 black"><image src="{{cover}}" class="_image 6381bfd8 cover" mode="widthFix" bindlongpress="handleProxy" data-eventid="{{'6381bfd8-0'}}" data-comkey="{{$k}}"></image></view></template>

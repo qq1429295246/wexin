@@ -1,0 +1,1 @@
+<template name="071ec2f8"><view class="_view 071ec2f8">{{msg}}<view class="_view 071ec2f8"><input type="text" value="{{myval}}" class="_input 071ec2f8 txt" /></view></view></template>
